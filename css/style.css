@@ -256,6 +256,15 @@ section{
     width: 384px;
     border-radius: 16px;
 }
+.projects-card .projectone-img{
+    width: 390px;
+    height: 100%;
+    border-top: 35px solid gray;
+    border-bottom: 35px solid gray;
+    border-left: 15px solid gray;
+    border-right: 15px solid gray;
+
+}
 .projects-card:hover .btn{
     border: 2px solid white;
     color: white;
